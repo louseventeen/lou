@@ -35,13 +35,15 @@ J'ai tout d'abord instauré et analysé le sujet dans une première partie, en i
 
 ![place du spectateur](https://i.ibb.co/d0W3RqFC/dummy.png)
 
+![victoire d'un gladiateur](https://i.ibb.co/m52w14NQ/lou.png)
+
 j'ai utilisé des images également pour illustrer des propos qui auraient pu être abstrait pour certains:
 
 ![place du spectateur](https://i.ibb.co/mkWJzR8/dummy.png)
 
 ![munus gladiatorium](https://i.ibb.co/RkfzHPK2/dummy.png)
 
-![venationes](https://i.ibb.co/7xnWFtV3/dummy.png)
+![venationes](https://i.ibb.co/j9yMFkGC/dummy.png)
 
 ![naumachies](https://i.ibb.co/SXdRkYZ7/dummy.png)
 
