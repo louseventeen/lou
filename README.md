@@ -29,12 +29,10 @@ en naviguant sur le site, il est préférable d'avoir en tête ces deux textes q
 ## captures d'écran:
 
 J'ai tout d'abord instauré et analysé le sujet dans une première partie, en illustrant mon propos avec des images du colisée et des imgages/liens vers les textes mentionnés:
-![colisée](https://i.postimg.cc/zXHNb7DZ/dummy.png)
+![Colisée](https://i.postimg.cc/zXHNb7DZ/dummy.png)
 
-![screenshot de Suétone, Vie d'Auguste](https://i.ibb.co/7Xkbkdm/Capture-d-e-cran-2025-01-20-a-03-22-59.png)
-
+![Suétone, Vie d'Auguste](https://i.ibb.co/XZFnpLLP/sue-tone.png)
 ![place du spectateur](https://i.ibb.co/d0W3RqFC/dummy.png)
-
 ![victoire d'un gladiateur](https://i.ibb.co/m52w14NQ/lou.png)
 
 j'ai utilisé des images également pour illustrer des propos qui auraient pu être abstrait pour certains:
